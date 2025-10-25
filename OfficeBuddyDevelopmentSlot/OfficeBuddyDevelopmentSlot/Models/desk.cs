@@ -4,7 +4,7 @@ namespace OfficeBuddyDevelopmentGit.Models;
 
 public class Desk
 {
-    public int DeskID { get; set; }
+    public int ID { get; set; }
 
     [Required]
     [StringLength(50)]

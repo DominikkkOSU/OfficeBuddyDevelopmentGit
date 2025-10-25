@@ -5,7 +5,7 @@ namespace OfficeBuddyDevelopmentGit.Models;
 
 public class Booking
 {
-    public int Uzivatelske_cislo { get; set; }
+    public int ID { get; set; }
 
     [Required]
     public int UserId { get; set; }
