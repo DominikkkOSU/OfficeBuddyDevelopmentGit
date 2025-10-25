@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeBuddyDevelopmentSlot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41da1f59749b91c2b6de00c09f9127654955f101")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f482095744e8b0a86e13b92fab7115c45cca9fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeBuddyDevelopmentSlot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeBuddyDevelopmentSlot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
