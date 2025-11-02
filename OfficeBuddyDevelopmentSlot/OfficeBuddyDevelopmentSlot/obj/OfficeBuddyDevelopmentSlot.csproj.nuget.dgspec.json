@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj": {}
+    "c:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj": {
+    "c:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj",
+        "projectUniqueName": "c:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj",
         "projectName": "OfficeBuddyDevelopmentSlot",
-        "projectPath": "C:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj",
+        "projectPath": "c:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot.csproj",
         "packagesPath": "C:\\Users\\DOHL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\obj\\",
+        "outputPath": "c:\\Users\\DOHL\\OneDrive - Aeven\\Dokumenty\\Ostravska Univerzite - Development Slots\\OfficeBuddyDevelopmentGit\\OfficeBuddyDevelopmentSlot\\OfficeBuddyDevelopmentSlot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
